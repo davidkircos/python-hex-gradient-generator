@@ -1,4 +1,6 @@
 # python-hex-gradient-generator
+*A simple hex color gradient generator with no dependencies.*
+
 Takes lower and upper colors formated in hex with any number (N) of steps in between to generate a gradient.
 
 `get_color` returns the color at fraction x/N between lower and upper colors of the gradient.
